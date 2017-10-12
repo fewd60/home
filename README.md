@@ -9,7 +9,7 @@ Welcome to our course page!
 
 Week | Monday |  Wednesday | Homework |
 ----- | ----- | ------ | ---- |
-**0:** October 11 | No class | Orientation and [HTML basics][1W]  | [Personal Portfolio][1H] |
+**0:** October 11 | No class | Orientation and [HTML basics][1W]  | [Personal Portfolio][1H] due October 18 |
 **1:** October 16 and 18 | CSS basics | CSS Box Model |  |
 **2:** October 23 and 25 | Page Layout | Layout Lab  |  |
 **3:** October 30 and November 1 | HTML and CSS Lab | Intro to Programming |  |
