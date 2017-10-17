@@ -78,5 +78,5 @@ Week | Monday |  Wednesday | Homework |
   * [CSS documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Jon Duckett's books ([for purchase](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_1?ie=UTF8&qid=1453187846&sr=8-1&keywords=jon+duckett))
- * [HTML & CSS: design and build websites](http://www.wufai.edu.tw/%E7%B6%B2%E9%A0%81%E6%8A%80%E8%A1%93%E4%B8%AD%E5%BF%83/datasheet/HTML%20and%20CSS%20design%20and%20build%20websites.pdf)
- * [Javascript and JQuery: interactive front-end web development](https://www.scribd.com/doc/253307793/Javascript-and-Jquery-Jon-Duckett)
+  * [HTML & CSS: design and build websites](http://www.wufai.edu.tw/%E7%B6%B2%E9%A0%81%E6%8A%80%E8%A1%93%E4%B8%AD%E5%BF%83/datasheet/HTML%20and%20CSS%20design%20and%20build%20websites.pdf)
+  * [Javascript and JQuery: interactive front-end web development](https://www.scribd.com/doc/253307793/Javascript-and-Jquery-Jon-Duckett)
