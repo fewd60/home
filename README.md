@@ -10,7 +10,7 @@ Welcome to our course page!
 Week | Monday |  Wednesday | Homework |
 ----- | ----- | ------ | ---- |
 **0:** October 11 | No class | Orientation and [HTML basics][0W]  | [Personal Portfolio][0H] due October 18 |
-**1:** October 16 and 18 | [CSS basics][1M] | CSS Box Model |  |
+**1:** October 16 and 18 | [CSS basics][1M] and [example code][1M_examples] | CSS Box Model |  |
 **2:** October 23 and 25 | Page Layout | Layout Lab  |  |
 **3:** October 30 and November 1 | HTML and CSS Lab | Intro to Programming |  |
 **4:** November 6 and 8 | jQuery Basics | Variables and Conditionals |   |
@@ -22,10 +22,11 @@ Week | Monday |  Wednesday | Homework |
 **10:** December 18 and 20 | Lab time | Final Project Presentations  | |  
 
 [0M]: # "..."
-[0W]: https://docs.google.com/presentation/d/1mNgiufC1fkp1DdMb7nLtlqWDD-MhvcnyQoX19LWu7oI/edit#slide=id.g10525f8a8b_0_30 "day 1 slides"
+[0W]: https://docs.google.com/presentation/d/1mNgiufC1fkp1DdMb7nLtlqWDD-MhvcnyQoX19LWu7oI/edit#slide=id.g10525f8a8b_0_30 "HTML Basics slides"
 [0H]: /homework/week01 "week 1 hw"
 
 [1M]: https://docs.google.com/presentation/d/1AUuVf3hAFHJ4X3pEVYpzTue7vhggdK6vse4Sz42Up68/edit#slide=id.p "CSS Basics slides"
+[1M_examples]: https://github.com/fewd60/home/tree/master/homework/week01/solution "example code"
 [1W]: # "..."
 [1H]: # "..."
 
