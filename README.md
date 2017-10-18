@@ -10,7 +10,7 @@ Welcome to our course page!
 Week | Monday |  Wednesday | Homework |
 ----- | ----- | ------ | ---- |
 **0:** October 11 | No class | Orientation and [HTML basics][0W]  | [Personal Portfolio][0H] due October 18 |
-**1:** October 16 and 18 | [CSS basics][1M] and [example code][1M_examples] | CSS Box Model |  |
+**1:** October 16 and 18 | [CSS basics][1M] and [example code][1M_examples] | [CSS Box Model][1W] ([related resources][1W_resources] and [solutions][1W_solutions]) | [Relaxr Landing page][1H] due October 25 |
 **2:** October 23 and 25 | Page Layout | Layout Lab  |  |
 **3:** October 30 and November 1 | HTML and CSS Lab | Intro to Programming |  |
 **4:** November 6 and 8 | jQuery Basics | Variables and Conditionals |   |
@@ -27,8 +27,10 @@ Week | Monday |  Wednesday | Homework |
 
 [1M]: https://docs.google.com/presentation/d/1AUuVf3hAFHJ4X3pEVYpzTue7vhggdK6vse4Sz42Up68/edit#slide=id.p "CSS Basics slides"
 [1M_examples]: https://github.com/fewd60/home/tree/master/homework/week01/solution "example code"
-[1W]: # "..."
-[1H]: # "..."
+[1W]: https://docs.google.com/presentation/d/1lMhOP6yyGUYnGyikx04u8jH0LIrT4_695OAArm7S8_E/edit#slide=id.g25d2fcffd3_0_0 "CSS box model slides"
+[1W_resources]: https://github.com/fewd60/home/tree/master/resources/03_box_model/starter_code 'box model resources'
+[1W_solutions]: https://github.com/fewd60/home/tree/master/resources/03_box_model/solution 'box model solutions'
+[1H]: /homework/week02 "Relaxr landing page"
 
 [2M]: # "..."
 [2W]: # "..."
