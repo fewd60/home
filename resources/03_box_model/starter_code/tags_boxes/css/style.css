@@ -1,0 +1,32 @@
+* {
+	margin:40px;
+}
+
+h1, p{
+	padding:1em;
+	border: .5em solid black;
+}
+
+
+h1{
+	background-color: red; 
+}
+
+p{
+	background-color: blue;
+	color:white;
+}
+
+code{
+
+	background-color: white;
+	color:black;
+	padding:.2em;
+	border: .25em solid black;
+}
+
+li{
+	display: inline-block;
+	width: 20%;
+	border:1px dotted black;
+}
