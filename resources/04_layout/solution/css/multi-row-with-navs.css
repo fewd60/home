@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+}
+
+main, article, footer, img, nav {
+	color: white;
+	padding: 15px;
+	border: 3px solid grey;
+}
+
+header{
+	height: 75px;
+  padding: 15px;
+}
+
+img{
+  float:left;
+  height: 50px;
+  width: 20%;
+  background-color: red;
+}
+nav{
+  background-color: purple;
+  height:30px;
+  width:10%;
+  float:right;
+}
+
+
+main{
+	height: 250px;
+	background-color: blue;
+
+}
+article{
+	height: 250px;
+	background-color: green;
+	width: 33.3%;
+ 	float: left;
+}
+footer{
+	color:blue;
+	height: 50px;
+	background-color: yellow;
+	clear:both;
+}
