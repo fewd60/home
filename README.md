@@ -5,13 +5,14 @@ Welcome to our course page!
 
 # Schedule
 * [Syllabus](https://drive.google.com/file/d/0B8Xkn5bpaj3KRG5CZW1zejBQVjQ/view)
+* [Homework Submission](https://docs.google.com/spreadsheets/d/1VH69kigSGi_H6ddLWjPvuqSwjJ4bsBq2OzVuuqNqALI/edit#gid=0)
 * [Homework Presentations](https://docs.google.com/spreadsheets/d/1C8MEWs1j84YWrifGvV2uSq79sEIMyJkI8QTZcZHbk2c/edit#gid=0)
 
 Week | Monday |  Wednesday | Homework |
 ----- | ----- | ------ | ---- |
 **0:** October 11 | No class | Orientation and [HTML basics][0W]  | [Personal Portfolio][0H] due October 18 |
 **1:** October 16 and 18 | [CSS basics][1M] and [example code][1M_examples] | [CSS Box Model][1W] ([related resources][1W_resources] and [solutions][1W_solutions]) | [Relaxr Landing page][1H] due October 25 |
-**2:** October 23 and 25 | [Page Layout][2M] and [demo resources][2M_resources] | Layout Lab  |  |
+**2:** October 23 and 25 | [Page Layout][2M], [demo resources][2M_resources], and [demo solutions][2M_solutions] | [Layout Lab][2W]  |  |
 **3:** October 30 and November 1 | HTML and CSS Lab | Intro to Programming |  |
 **4:** November 6 and 8 | jQuery Basics | Variables and Conditionals |   |
 **5:** November 13 and 15 | Functions | JavaScript Lab |  |
@@ -34,7 +35,8 @@ Week | Monday |  Wednesday | Homework |
 
 [2M]: https://docs.google.com/presentation/d/1bEkPIqAMVBTj3nG1xTNdUciM1Y58FnZl_Ltsm1JGh1c/edit#slide=id.g28efd68594_0_35 "Layout slides"
 [2M_resources]: https://github.com/fewd60/home/tree/master/resources/04_layout "layout demo resources"
-[2W]: # "..."
+[2M_solutions]: https://github.com/fewd60/home/tree/master/resources/04_layout/solution "layout demo solutions"
+[2W]: https://docs.google.com/presentation/d/1qspmLJNDAMmJQTGUHl0p2PTjJQ8zGw8qdtGKJqL84QY/edit#slide=id.g1095295fc1_3_0 "Layout Lab"
 [2H]: # "..."
 
 
