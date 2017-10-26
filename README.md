@@ -12,7 +12,7 @@ Week | Monday |  Wednesday | Homework |
 ----- | ----- | ------ | ---- |
 **0:** October 11 | No class | Orientation and [HTML basics][0W]  | [Personal Portfolio][0H] due October 18 |
 **1:** October 16 and 18 | [CSS basics][1M] and [example code][1M_examples] | [CSS Box Model][1W] ([related resources][1W_resources] and [solutions][1W_solutions]) | [Relaxr Landing page][1H] due October 25 |
-**2:** October 23 and 25 | [Page Layout][2M], [demo resources][2M_resources], and [demo solutions][2M_solutions] | [Layout Lab][2W]  |  |
+**2:** October 23 and 25 | [Page Layout][2M], [demo resources][2M_resources], and [demo solutions][2M_solutions] | [Layout Lab][2W]  | [Relaxr Blog][2H] due November 1 |
 **3:** October 30 and November 1 | HTML and CSS Lab | Intro to Programming |  |
 **4:** November 6 and 8 | jQuery Basics | Variables and Conditionals |   |
 **5:** November 13 and 15 | Functions | JavaScript Lab |  |
@@ -29,7 +29,7 @@ Week | Monday |  Wednesday | Homework |
 [1M]: https://docs.google.com/presentation/d/1AUuVf3hAFHJ4X3pEVYpzTue7vhggdK6vse4Sz42Up68/edit#slide=id.p "CSS Basics slides"
 [1M_examples]: https://github.com/fewd60/home/tree/master/homework/week01/solution "example code"
 [1W]: https://docs.google.com/presentation/d/1lMhOP6yyGUYnGyikx04u8jH0LIrT4_695OAArm7S8_E/edit#slide=id.g25d2fcffd3_0_0 "CSS box model slides"
-[1W_resources]: https://github.com/fewd60/home/tree/master/resources/03_box_model/starter_code 'box model resources'
+[1W_resources]: https://github.com/fewd60/home/tree/master/resources/03_box_model/starter_code "box model resources"
 [1W_solutions]: https://github.com/fewd60/home/tree/master/resources/03_box_model/solution 'box model solutions'
 [1H]: /homework/week02 "Relaxr landing page"
 
@@ -37,7 +37,7 @@ Week | Monday |  Wednesday | Homework |
 [2M_resources]: https://github.com/fewd60/home/tree/master/resources/04_layout "layout demo resources"
 [2M_solutions]: https://github.com/fewd60/home/tree/master/resources/04_layout/solution "layout demo solutions"
 [2W]: https://docs.google.com/presentation/d/1qspmLJNDAMmJQTGUHl0p2PTjJQ8zGw8qdtGKJqL84QY/edit#slide=id.g1095295fc1_3_0 "Layout Lab"
-[2H]: # "..."
+[2H]: /homework/week03 "Relaxr Blog"
 
 
 [3M]: # "..."
