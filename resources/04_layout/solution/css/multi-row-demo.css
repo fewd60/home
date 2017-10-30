@@ -21,8 +21,9 @@ section{
 article{
 	height: 250px;
 	background-color: green;
-	width: 33.3%;
+	width: 30%;
  	float: left;
+  margin: 1.5% ;
 }
 footer{
 	color:blue;
