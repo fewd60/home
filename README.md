@@ -13,7 +13,7 @@ Week | Monday |  Wednesday | Homework |
 **0:** October 11 | No class | Orientation and [HTML basics][0W]  | [Personal Portfolio][0H] due October 18 |
 **1:** October 16 and 18 | [CSS basics][1M] and [example code][1M_examples] | [CSS Box Model][1W] ([related resources][1W_resources] and [solutions][1W_solutions]) | [Relaxr Landing page][1H] due October 25 |
 **2:** October 23 and 25 | [Page Layout][2M], [demo resources][2M_resources], and [demo solutions][2M_solutions] | [Layout Lab][2W]  | [Relaxr Blog][2H] due November 1 |
-**3:** October 30 and November 1 | [Slides][3M] and [HTML and CSS Lab][3M_lab] | Intro to Programming |  |
+**3:** October 30 and November 1 | [Slides][3M] and [HTML and CSS Lab][3M_lab] | [Intro to Programming][3W] and [class resources][3W_resources] | Build a wireframe for your final project. Inspiration [here][3H_inspiration] and [examples here][3H_gallery] |
 **4:** November 6 and 8 | jQuery Basics | Variables and Conditionals |   |
 **5:** November 13 and 15 | Functions | JavaScript Lab |  |
 **6:** November 20  | Review and Refactor | Thanksgiving, no class  |  |
@@ -42,8 +42,10 @@ Week | Monday |  Wednesday | Homework |
 
 [3M]: https://docs.google.com/presentation/d/1Wq4qD7OGUm2NzkS4P1YO0eUL8sd6wVIqkkGmulRCJnQ/edit#slide=id.g273a2b311f_0_17 "slides"
 [3M_lab]: /resources/06_HTML_CSS_Lab "startup matchmaker"
-[3W]: # "..."
-[3H]: # "..."
+[3W]: https://docs.google.com/presentation/d/1W_ECkQU8aVhm-kb1xRYaeuNMLIf2JtqhJ5RSbyOpFBE/edit#slide=id.g10aab69910_0_430 "programatic thinking slides"
+[3W_resources]: "/resources/07_prommatic_thinking" ...
+[3H_inspiration]: "https://www.siteinspire.com/" "..."
+[3H_gallery]: "https://gallery.generalassemb.ly/FEWD" "ga gallery"
 
 
 [4M]: # "..."
