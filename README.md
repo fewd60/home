@@ -14,7 +14,7 @@ Week | Monday |  Wednesday | Homework |
 **1:** October 16 and 18 | [CSS basics][1M] and [example code][1M_examples] | [CSS Box Model][1W] ([related resources][1W_resources] and [solutions][1W_solutions]) | [Relaxr Landing page][1H] due October 25 |
 **2:** October 23 and 25 | [Page Layout][2M], [demo resources][2M_resources], and [demo solutions][2M_solutions] | [Layout Lab][2W]  | [Relaxr Blog][2H] due November 1 |
 **3:** October 30 and November 1 | [Slides][3M] and [HTML and CSS Lab][3M_lab] | [Intro to Programming][3W] and [class resources][3W_resources] | [Final project first steps][3H] |
-**4:** November 6 and 8 | jQuery Basics | Variables and Conditionals |   |
+**4:** November 6 and 8 | [jQuery Basics][4M] | Variables and Conditionals |   |
 **5:** November 13 and 15 | Functions | JavaScript Lab |  |
 **6:** November 20  | Review and Refactor | Thanksgiving, no class  |  |
 **7:** November 27 and 29 | Responsive Design | Web Forms |   |
@@ -47,7 +47,7 @@ Week | Monday |  Wednesday | Homework |
 [3H]: /homework/week04 "final proj. first steps"
 
 
-[4M]: # "..."
+[4M]: https://docs.google.com/presentation/d/1h6rPHpccO79kFZ5hPbS1PIVzFoEcdZlfyDpNLtRGgLM/edit#slide=id.g1189d8434b_0_62 "jquery slides"
 [4W]: # "..."
 [4H]: # "..."
 
