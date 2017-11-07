@@ -43,7 +43,7 @@ Week | Monday |  Wednesday | Homework |
 [3M]: https://docs.google.com/presentation/d/1Wq4qD7OGUm2NzkS4P1YO0eUL8sd6wVIqkkGmulRCJnQ/edit#slide=id.g273a2b311f_0_17 "slides"
 [3M_lab]: /resources/06_HTML_CSS_Lab "startup matchmaker"
 [3W]: https://docs.google.com/presentation/d/1W_ECkQU8aVhm-kb1xRYaeuNMLIf2JtqhJ5RSbyOpFBE/edit#slide=id.g10aab69910_0_430 "programatic thinking slides"
-[3W_resources]: /resources/07_prommatic_thinking "..."
+[3W_resources]: /resources/07_programmatic_thinking "..."
 [3H]: /homework/week04 "final proj. first steps"
 
 
