@@ -3,7 +3,7 @@ document.getElementById('whiteButton').onclick = switchWhite;
 
 function switchGray() {
   document.body.style.backgroundColor = 'gray';
- document.body.style.color = 'white';
+  document.body.style.color = 'white';
 }
 
 function switchWhite() {
