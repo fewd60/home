@@ -2,7 +2,7 @@ $(document).ready(function(){
   $('#submit-button').click(function(event){
     event.preventDefault();
     // instead of just saying "button pressed"
-    $('.message').html('button pressed')
+    $('.message').html('button pressed');
 
     // make the message on the page say "you are legally
     // old enough to vote" if the person is 18 or older

@@ -14,7 +14,7 @@ Week | Monday |  Wednesday | Homework |
 **1:** October 16 and 18 | [CSS basics][1M] and [example code][1M_examples] | [CSS Box Model][1W] ([related resources][1W_resources] and [solutions][1W_solutions]) | [Relaxr Landing page][1H] due October 25 |
 **2:** October 23 and 25 | [Page Layout][2M], [demo resources][2M_resources], and [demo solutions][2M_solutions] | [Layout Lab][2W]  | [Relaxr Blog][2H] due November 1 |
 **3:** October 30 and November 1 | [Slides][3M] and [HTML and CSS Lab][3M_lab] | [Intro to Programming][3W] and [class resources][3W_resources] | [Final project first steps][3H] |
-**4:** November 6 and 8 | [jQuery Basics slides][4M] and [demos and resources][4M_resources] | [Variables and Conditionals slides][4W] and [resources][4W_resources] |   |
+**4:** November 6 and 8 | [jQuery Basics slides][4M] and [demos and resources][4M_resources] | [Variables and Conditionals slides][4W] and [resources][4W_resources] |  [Relaxr Blog jQuery][4H] |
 **5:** November 13 and 15 | Functions | JavaScript Lab |  |
 **6:** November 20  | Review and Refactor | Thanksgiving, no class  |  |
 **7:** November 27 and 29 | Responsive Design | Web Forms |   |
@@ -51,7 +51,7 @@ Week | Monday |  Wednesday | Homework |
 [4M_resources]: /resources/08_jquery "demo and examples"
 [4W]: https://docs.google.com/presentation/d/1QYxwrno1omPMP_Of0VKbj00XePJjR_cX3bdc0mbZdLE/edit#slide=id.g1196bcb32f_1_192 "conditionals variables and types"
 [4W_resources]: https://github.com/fewd60/home/tree/master/resources/09_vars_conditionals_types "wednesday resources"
-[4H]: # "..."
+[4H]: https://github.com/fewd60/home/tree/master/homework/week05 "Relaxr blog jQuery"
 
 
 [5M]: # "..."

@@ -66,7 +66,3 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 
 
 Students should use the same folder and GitHub repository as the previous project ("homework-landingpage"). When ready for evaluation they should push their code to that repository and notify the instructional team via slack. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). **Note**: If bullets have child bullets, grade the child bullets and not the parent bullet belonging to the child. The maximum possible score on this assignment is 16/16. Bonus materials are completely optional.
-
-### Final Project Milestone 1
-
-By this week, you should have created and handed in wireframes that sketch out your idea and basic design for a final project.
