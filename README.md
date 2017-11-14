@@ -55,7 +55,7 @@ Week | Monday |  Wednesday | Homework |
 
 
 [5M]: https://docs.google.com/presentation/d/1KSYnqon5diml8RzjKvySvg4REHeETD6ZJONBLz5Ur3k/edit#slide=id.g119d190c8e_0_369 "functions slides"
-[5M]: /resources/10_functions "lesson resources"
+[5M_resources]: /resources/10_functions "lesson resources"
 [5W]: # "..."
 [5H]: # "..."
 
