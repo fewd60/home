@@ -1,6 +1,6 @@
 
 function compare() {
-  var comparison;
+  var comparisonSym;
   var a = $('#a').val();
   var b = $('#b').val();
 
@@ -8,16 +8,16 @@ function compare() {
   b = parseFloat(b);
 
   if (a < b) {
-    comparison = '<';
+    comparisonSym = '<';
   } else if (a > b) {
-    comparison = '>';
+    comparisonSym = '>';
   } else if (a === b) {
-    comparison = '===';
+    comparisonSym = '===';
   } else{
-    comparison = 'N/A';
+    comparisonSym = 'N/A';
   }
   
- $('#comparison').html(comparison);
+ $('#comparison').html(comparisonSym);
 }
 
 $('#submit').click(compare);

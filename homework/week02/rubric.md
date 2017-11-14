@@ -13,6 +13,14 @@ Student: ________________________________________
 Project URL: ____________________________________
 
 
+
+
+## Feedback
+*[Assignment Solution](https://github.com/fewd60/home/tree/master/homework/week02/solution_code)*
+
+
+### Rubric
+
 |                                                                                                                               |                                |                        |                          |
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------------------|--------------------------|
 | Technical Requirements                                                                                                        | Does Not Meet Expectations (0) | Meets Expectations (1) | Exceeds Expectations (2) |
