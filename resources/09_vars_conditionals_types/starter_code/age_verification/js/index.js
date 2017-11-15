@@ -1,5 +1,7 @@
 $(document).ready(function(){
-  $('#submit-button').click(function(event){
+  $('#submit-button').click(function actAccordingly(event){
+
+    console.log(event);
     event.preventDefault();
     // instead of just saying "button pressed"
     $('.message').html('button pressed');
