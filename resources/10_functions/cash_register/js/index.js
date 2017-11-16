@@ -9,13 +9,13 @@ function enter() {
   var entry = $('#newEntry').val();
   var entry = parseFloat(entry);
   currency = currencyFormat(entry);
-  
+
   $('#entries').append('<tr><td></td><td>' + currency + '</td></tr>');
-  
+
   total += entry;
-  
+
  $('#total').html(currencyFormat(total));
-  
+
  $('#newEntry').val('');
 }
 

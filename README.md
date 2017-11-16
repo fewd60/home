@@ -15,7 +15,7 @@ Week | Monday |  Wednesday | Homework |
 **2:** October 23 and 25 | [Page Layout][2M], [demo resources][2M_resources], and [demo solutions][2M_solutions] | [Layout Lab][2W]  | [Relaxr Blog][2H] due November 1 |
 **3:** October 30 and November 1 | [Slides][3M] and [HTML and CSS Lab][3M_lab] | [Intro to Programming][3W] and [class resources][3W_resources] | [Final project first steps][3H] |
 **4:** November 6 and 8 | [jQuery Basics slides][4M] and [demos and resources][4M_resources] | [Variables and Conditionals slides][4W] and [resources][4W_resources] |  [Relaxr Blog jQuery][4H] |
-**5:** November 13 and 15 | [Functions][5M] with [examples and resources][5M_resources] | JavaScript Lab |  |
+**5:** November 13 and 15 | [Functions][5M] with [examples and resources][5M_resources] | [JavaScript Lab][5W] | [Citipix][5H] due Monday November 27 |
 **6:** November 20  | Review and Refactor | Thanksgiving, no class  |  |
 **7:** November 27 and 29 | Responsive Design | Web Forms |   |
 **8:** December 4 and 6 | To Do List Application | TBD |  |
@@ -56,8 +56,8 @@ Week | Monday |  Wednesday | Homework |
 
 [5M]: https://docs.google.com/presentation/d/1KSYnqon5diml8RzjKvySvg4REHeETD6ZJONBLz5Ur3k/edit#slide=id.g119d190c8e_0_369 "functions slides"
 [5M_resources]: /resources/10_functions "lesson resources"
-[5W]: # "..."
-[5H]: # "..."
+[5W]: https://docs.google.com/presentation/d/1N0TKmh3IHfZOnIIlFTe89fD_Wfijo4mbDxJfl4VLGC8/edit#slide=id.g11ac3d59af_0_172 "lab slides"
+[5H]: /homework/week06 "citipix"
 
 [6M]: # "..."
 [6W]: # "..."

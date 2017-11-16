@@ -1,5 +1,5 @@
 function rectangleArea(height, width){
-	console.log(height*width);
+	return height*width;
 }
 
 var rectangle1 = rectangleArea(10,20);
