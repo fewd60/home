@@ -24,12 +24,13 @@ $('body').append('<img src="images/Will.png" alt="'+first_name+'\'s picture"><p>
 // $('#container>ol').prepend('<li>Gatorade</li>');
 
 //Use functions to generalize a method and use it several times
-createLi('Milk');
-createLi('Cookies');
-createLi('Sugar');
-createLi('Bananas');
-createLi('Gatorade');
-function createLi(myLiText){
+createListItem('Milk');
+createListItem('Cookies');
+createListItem('Sugar');
+createListItem('Bananas');
+createListItem('Gatorade');
+
+function createListItem(myLiText){
 	$('#container>ol').prepend('<li>'+myLiText+'</li>');
 }
 
@@ -82,9 +83,9 @@ $('#container,#main').css('width','960px');
 	Combine multiple jQuery css, attr, etc changes
 */ 
 $("#container, #main").css({
-	"width":"960px",
-	"background":"red",
-	"color":"purple"
+	width:"960px",
+	background:"red", 
+	color:"purple" 
 });
 
 /*
@@ -115,4 +116,4 @@ Chain jQuery function calls so that you don't have to re-select the
 */
 $('input').css('width','200px')
 	.attr('placeholder','My placeholder')
-	.before('<label>My input</label>');
+	.before("<label>My input</label>");
