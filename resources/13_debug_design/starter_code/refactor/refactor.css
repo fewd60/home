@@ -1,0 +1,90 @@
+/*Remove inline styles*/
+/*Combine multiples*/
+/*Rename classes/ids for readability
+     Ask yourself: Where else do I have to change this?
+*/
+/*Organize CSS
+     use comments to make headings and organize stylings
+     by the element they're related to.
+
+     OR
+
+     In alphabetical order, list all element stylings, 
+     then all class stylings, then all id stylings. This
+     is a good pattern for relatively small stylesheets
+*/
+
+/*Create classes for large css changes
+$("#container").css({background:"red",fontSize:"12px",color:"purple",boxShadow:"0 0 10px #ccc";})
+*/
+
+/*Goes to
+$("#container").addClass("container-style");
+
+.container-style{
+     background:red;
+     font-size:12px;
+     color:purple;
+     box-shadow:0 0 10px #ccc;    
+}
+*/
+
+/* Remove unnecessary CSS */
+
+
+#buttons-wrapper{
+     padding:10px;
+     border:1px solid black;
+     background:orange;
+}
+#buttons-wrapper>form{
+     padding:10px;
+     border:1px solid black;
+}
+
+#img1{
+     margin-top: 50px;
+}
+
+
+.list-item{
+     width:200px;
+}
+#container>.col{
+     width:50%;
+}
+footer{
+     text-align: right;
+}
+a:hover{
+     color:purple;
+}
+header>ol{
+     list-style: none;
+}
+body{
+     background-image:url(../images/anImage.png);
+}
+#navigation-wrapper{
+     float:left;
+}
+a{
+     color:red;
+}
+header{
+     height:80px;
+}
+#container>img{
+     border:1px solid red;
+}
+footer>#company-name{
+     font-weight: bold;
+}
+
+
+#myDiv{
+     margin:10px 0px 0px 20px;
+}
+div{
+     width:100%;
+}
