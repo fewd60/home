@@ -17,10 +17,10 @@ Week | Monday |  Wednesday | Homework |
 **4:** November 6 and 8 | [jQuery Basics slides][4M] and [demos and resources][4M_resources] | [Variables and Conditionals slides][4W] and [resources][4W_resources] |  [Relaxr Blog jQuery][4H] |
 **5:** November 13 and 15 | [Functions][5M] with [examples and resources][5M_resources] | [JavaScript Lab][5W] | [Citipix][5H] due Monday November 27 |
 **6:** November 20  | [Review and Refactor slides][6M] and [resources][6M_resources] | Thanksgiving, no class  |  |
-**7:** November 27 and 29 | Responsive Design | Web Forms |   |
+**7:** November 27 and 29 | [Responsive Design][7M] | Web Forms |   |
 **8:** December 4 and 6 | To Do List Application | TBD |  |
-**9:** December 11 and 13 | TBD | TBD | |  
-**10:** December 18 and 20 | Lab time | Final Project Presentations  | |  
+**9:** December 11, 13, and 14 | TBD | TBD | Lab Time |  
+**10:** December 18 |  Final Project Presentations | CONGRATS! | | 
 
 [0M]: # "..."
 [0W]: https://docs.google.com/presentation/d/1mNgiufC1fkp1DdMb7nLtlqWDD-MhvcnyQoX19LWu7oI/edit#slide=id.g10525f8a8b_0_30 "HTML Basics slides"
@@ -61,10 +61,10 @@ Week | Monday |  Wednesday | Homework |
 
 [6M]: https://docs.google.com/presentation/d/1D6aKZEbQUqhVAeuTqsEqdV6NWukaXtFvZgwY8XP9DZY/edit#slide=id.g11b23dce7e_0_0 "Monday slides"
 [6M_resources]: https://github.com/fewd60/home/tree/master/resources/12_review_refactor ""
-[6W]: # "..."
-[6H]: # "..."
 
-[7M]: # "..."
+
+[7M]: https://docs.google.com/presentation/d/1v2WKqFsmmu6J-Oe985bT_dtqmPn02cR1yj6j--FpFAY/edit#slide=id.g11c0d5ccba_0_149 "slides"
+[7M_resources]: https://github.com/fewd60/home/tree/master/resources/13_debug_design "resources"
 [7W]: # "..."
 [7H]: # "..."
 
