@@ -19,7 +19,7 @@ Week | Monday |  Wednesday | Homework |
 **5:** November 13 and 15 | [Functions][5M] with [examples and resources][5M_resources] | [JavaScript Lab][5W] | [Citipix][5H] due Monday November 27 |
 **6:** November 20  | [Review and Refactor slides][6M] and [resources][6M_resources] | Thanksgiving, no class  |  |
 **7:** November 27 and 29 | [Responsive Design][7M] and [resources][7M_resources] | [Bootstrap slides][7W] and [resources][7W_resources] | [Final project HTML prototype due Monday December 4! Responsive Relaxr due Wednesday December 6th!][7H]  |
-**8:** December 4 and 6 | [Responsive design practice and web forms intro][8M]. Today's [resources][8M_resources] | To Do List Application | [Final project JS first draft][8H] |
+**8:** December 4 and 6 | [Responsive design practice and web forms intro][8M]. Today's [resources][8M_resources] | To Do List Application | [Final project JS first draft][8H] due December 11 |
 **9:** December 11, 13, and 14 | TBD | TBD | Lab Time |  
 **10:** December 18 |  Final Project Presentations | CONGRATS! | | 
 
