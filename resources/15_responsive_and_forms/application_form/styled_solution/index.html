@@ -44,7 +44,7 @@
         <div class="form-row">
           <label for="address">Address</label>
           <div class="address-fields">
-            <input type="text" name="address[street_address]" placeholder="Street Address" class="address-street-address" id="address">
+            <input  required type="text" name="address[street_address]" placeholder="Street Address" class="address-street-address" id="address">
             <input type="text" name="address[line_2]" placeholder="Address Line 2" class="address-line-2">
             <input type="text" name="address[city]" placeholder="City" class="address-city">
             <input type="text" name="address[state]" placeholder="State" class="address-state">
@@ -59,7 +59,7 @@
         <div class="form-row">
           <label>Course</label>
           <select>
-            <option>Select One</option>
+            <option disabled selected>Select One</option>
             <optgroup label="Web Development">
               <option>Front-end</option>
               <option>Back-end</option>
