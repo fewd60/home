@@ -5,7 +5,7 @@ $(document).ready(function(){
     method: 'GET',
 
     // The URL for the request
-    url: 'https://swapi.co/api/people/3?format=json',
+    url: 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson',
 
     // The type of data we want back
     dataType: 'json',
@@ -16,10 +16,10 @@ $(document).ready(function(){
   })
 })
 
-function onSuccess(responseData){
+function onSuccess(responseData, status){
+  console.log(status);
   console.log(responseData);
-  var displayData = JSON.stringify(responseData);
+  var displayData = JSON.stringify(responseData.features[0]);
   displayData = displayData.split(',').join(', ');
-  $('#container').append(`<div>`+ displayData +`</div>`);
+  $('#container').append(`<div> earthquake:`+ displayData +`</div>`);
 }
-

@@ -20,7 +20,7 @@ Week | Monday |  Wednesday | Homework |
 **6:** November 20  | [Review and Refactor slides][6M] and [resources][6M_resources] | Thanksgiving, no class  |  |
 **7:** November 27 and 29 | [Responsive Design][7M] and [resources][7M_resources] | [Bootstrap slides][7W] and [resources][7W_resources] | [Final project HTML prototype due Monday December 4! Responsive Relaxr due Wednesday December 6th!][7H]  |
 **8:** December 4 and 6 | [Responsive design practice and web forms intro][8M]. Today's [resources][8M_resources] | [To Do List Application][8W] and [starter code][8W_resources] | [Final project JS first draft][8H] due December 11 |
-**9:** December 11, 13, and 14 | [JSON, AJAX, and APIs][9M] and [example][9M_resources] | AJAX Lab | Lab time and project check-in meetings |  
+**9:** December 11, 13, and 14 | [JSON, AJAX, and APIs][9M] and [example][9M_resources] | [AJAX Lab][9W] | Lab time and project check-in meetings |  
 **10:** December 18 |  Final Project Presentations | CONGRATS! | |
 
 [0M]: # "..."
@@ -78,7 +78,7 @@ Week | Monday |  Wednesday | Homework |
 
 [9M]: https://docs.google.com/presentation/d/1xOr5AAe6RkaXwan6LFdw3vU-_GkXPEqAEshyvVQagao/edit#slide=id.g11c0d5ccba_0_252 "slides"
 [9M_resources]: /resources/17_ajax "example code"
-[9W]: # "..."
+[9W]: /resources/18_ajax_lab/geoquakes "Geoquakes"
 [9H]: # "..."
 
 [10M]: # "..."
